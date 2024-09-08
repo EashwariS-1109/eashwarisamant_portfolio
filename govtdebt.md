@@ -6,7 +6,7 @@
         style="border: none; width: 960px; height: 540px;" 
         allowfullscreen="true">
 </iframe>
-<a rel="noopener noreferrer" href="https://data-viewer.oecd.org?chartId=d9a1e503-528a-42bc-b50b-3f670aff1254" target="_blank">Dataflow</a>
+Please view this link to see the viz - <a rel="noopener noreferrer" href="https://data-viewer.oecd.org?chartId=d9a1e503-528a-42bc-b50b-3f670aff1254" target="_blank">Dataflow</a>
 
 ## Part 02: Getting Started with Tableau
 
