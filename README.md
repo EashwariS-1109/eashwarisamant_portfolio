@@ -12,7 +12,10 @@ In this class I'm eager to build my expertise in blending visual design, data an
 
 # Portfolio
 ## [Visualizing Government Debt](/govtdebt.md)
-First project going live soon!
+General government debt is the gross debt of the general government as a percentage of GDP.
+Debt is calculated as the sum of the following liability categories where applicable: currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable. A key indicator for the sustainability of government finance, changes in government debt over time primarily reflect the impact of past government deficits. This indicator is measured as a percentage of GDP.
+
+This project tells a story of the economic (un)sustainability of some superpowers in today's world.   
 
 ## Assignment 02
 Coming Soon!
