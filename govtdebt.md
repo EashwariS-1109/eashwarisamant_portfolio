@@ -50,3 +50,29 @@ Please view this link to see the viz - <a rel="noopener noreferrer" href="https:
     </script>
 </body>
 </html>
+
+## Part 03: Creating a New Visualization
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tableau Visualization</title>
+</head>
+<body>
+    <div class='tableauPlaceholder' id='viz1725840183185' style='position: relative'>
+        <noscript>
+            <a href='#'>
+                <img alt='A Tale of Two Economies: Diverging Debt Paths of the U.S. and Japan (1995 - 2018)' 
+                     src='https://public.tableau.com/static/images/Di/DivergingDebtPaths-USAandJapan/Sheet1/1_rss.png' 
+                     style='border: none' />
+            </a>
+        </noscript>
+        <object class='tableauViz' style='display:none;'>
+            <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+            <param name='embed_code_version' value='3' /> 
+            <param name='name' value='DivergingDebtPaths-USAandJapan&#47;Sheet1' />
+            <param name='tabs' value='no' />
+            <param name='toolbar' value='yes' />
+            <param name='static_image' value='https://public.tableau.com/static/images/Di/DivergingDebtPaths-USAandJapan/Sheet1/1
+
