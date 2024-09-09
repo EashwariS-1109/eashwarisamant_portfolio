@@ -60,7 +60,7 @@ Please view this link to see the viz - <a rel="noopener noreferrer" href="https:
     <title>Tableau Visualization</title>
 </head>
 <body>
-    <div class='tableauPlaceholder' id='viz1725840183185' style='position: relative'>
+    <div class='tableauPlaceholder' id='viz1725840183185' style='position: relative; width: 960px; height: 540px;'>
         <noscript>
             <a href='#'>
                 <img alt='A Tale of Two Economies: Diverging Debt Paths of the U.S. and Japan (1995 - 2018)' 
@@ -74,5 +74,25 @@ Please view this link to see the viz - <a rel="noopener noreferrer" href="https:
             <param name='name' value='DivergingDebtPaths-USAandJapan&#47;Sheet1' />
             <param name='tabs' value='no' />
             <param name='toolbar' value='yes' />
-            <param name='static_image' value='https://public.tableau.com/static/images/Di/DivergingDebtPaths-USAandJapan/Sheet1/1
+            <param name='static_image' value='https://public.tableau.com/static/images/Di/DivergingDebtPaths-USAandJapan/Sheet1/1.png' />
+            <param name='animate_transition' value='yes' />
+            <param name='display_static_image' value='yes' />
+            <param name='display_spinner' value='yes' />
+            <param name='display_overlay' value='yes' />
+            <param name='display_count' value='yes' />
+            <param name='language' value='en-US' />
+            <param name='filter' value='publish=yes' />
+        </object>
+    </div>
 
+    <script type='text/javascript'>
+        var divElement = document.getElementById('viz1725840183185');
+        var vizElement = divElement.getElementsByTagName('object')[0];
+        vizElement.style.width='960px';
+        vizElement.style.height='540px';
+        var scriptElement = document.createElement('script');
+        scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+        vizElement.parentNode.insertBefore(scriptElement, vizElement);
+    </script>
+</body>
+</html>
