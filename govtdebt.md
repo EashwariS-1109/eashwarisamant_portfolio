@@ -10,7 +10,7 @@ The three parts in this project aim to use different forms of data viz to tell d
 
 In this part, I explored the OECD's online data viz platform by experimenting with the dataset of different countries' debt %. I examined how the viz changes with respect to filters for duration and countries.
 
-![General Govt Debt 2018 -OECD]
+![General Govt Debt 2018 -OECD](OECD.GOV.GIP,DSD_GOV@DF_GOV_PF_YU,,filtered,2024-09-09 20-31-04.png)
 
 In case the image doesn't load, please click on this link to see the viz - <a rel="noopener noreferrer" href="https://data-viewer.oecd.org?chartId=d9a1e503-528a-42bc-b50b-3f670aff1254" target="_blank">Dataflow</a>
 
