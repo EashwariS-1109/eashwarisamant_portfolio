@@ -10,10 +10,8 @@ The three parts in this project aim to use different forms of data viz to tell d
 
 In this part, I explored the OECD's online data viz platform by experimenting with the dataset of different countries' debt %. I examined how the viz changes with respect to filters for duration and countries. With the simple bar chart preset, what I noticed in the first glance was Greece's sharp spike in debt over the decades. 
 
-<iframe src="https://data-viewer.oecd.org?chartId=d9a1e503-528a-42bc-b50b-3f670aff1254" 
-        style="border: none; width: 960px; height: 540px;" 
-        allowfullscreen="true">
-</iframe>
+![General Govt Debt 2018 -OECD](OECD Govt Debt 2018.png)
+
 In case the image doesn't load, please click on this link to see the viz - <a rel="noopener noreferrer" href="https://data-viewer.oecd.org?chartId=d9a1e503-528a-42bc-b50b-3f670aff1254" target="_blank">Dataflow</a>
 
 ## Part 02: Getting Started with Tableau
