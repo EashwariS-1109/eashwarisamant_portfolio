@@ -8,7 +8,7 @@ The three parts in this project aim to use different forms of data viz to tell d
 
 ## Part 01: General Government Debt (Data source:OECD)
 
-In this part, I explored the OECD's online data viz platform by experimenting with the dataset of different countries' debt %. I examined how the viz changes with respect to filters for duration and countries. With the simple bar chart preset, what I noticed in the first glance was Greece's sharp spike in debt over the decades. 
+In this part, I explored the OECD's online data viz platform by experimenting with the dataset of different countries' debt %. I examined how the viz changes with respect to filters for duration and countries. With the simple bar chart preset, what I noticed in the first glance was the significant difference in the debt % of Japan versus the other countries. 
 
 ![General Govt Debt 2018 -OECD](OECD Govt Debt 2018.png)
 
