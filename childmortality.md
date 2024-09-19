@@ -30,5 +30,7 @@ Using Stephen Few's Visualization Effectiveness profile, I dissected the viz and
 ### Emotive Parameters - Aesthetics, Engagement
 
 Here's a sneak peak into my critique!
+![Child Mortality OG Viz](/childmortalityoriginalviz.png)
+
 
 
