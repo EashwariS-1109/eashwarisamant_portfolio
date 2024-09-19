@@ -115,6 +115,8 @@ Based on these insights, it was time for some Tableau and visual design magic!
 
 ## ELEVATE
 
+I started off by cleaning up the dataset to eliminate any null/redundant values, retaining only the entired from 2021 that had all three values - GDP, mortality rate and population. At this juncture, I decided that the audience for my viz is going to be research-proficient executives from international health and welfare entities. My viz would help the intended audience support claims of healthcare and wealth inequity and inequality, and promote initiatives that combat it. Then, based on the insights and exploration of data viz forms, I decided to eliminate the link between mortality rates and population sizes. This allowed me to focus on ways to demonstrate how GDP and mortality are correlated. Finally, I aggregated the country-specific values into continents of Africa, Asia, North America, South America and Oceania. This helped me limit the number of categories being compared and instead draw focus on the overarching global trend between per capita GDP and child mortality.       
 
+Finally, I chose a line chart to show the inverse relationship between per capita GDP and child mortality rates across continents. This form of the viz made the story clear at the first glance and elicited an aha! response from everyone I shared it with. 
 
 
