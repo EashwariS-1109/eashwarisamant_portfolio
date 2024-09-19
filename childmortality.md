@@ -26,10 +26,11 @@ This viz fit my criteria perfectly - it presented healthcare related information
 
 ## EXAMINE
 Using Stephen Few's Visualization Effectiveness profile, I dissected the viz and ranked it across the following key parameters - 
-### Informative Parameters - Usefulness, Completeness, Perceptibility, Truthfulness, Intuitiveness
-### Emotive Parameters - Aesthetics, Engagement
+#### Informative Parameters - Usefulness, Completeness, Perceptibility, Truthfulness, Intuitiveness
+#### Emotive Parameters - Aesthetics, Engagement
 
 Here's a sneak peak into my critique!
+
 ![Child Mortality OG Viz](/childmortalityoriginalviz.png)
 
 
