@@ -15,7 +15,7 @@ I think data is a language, and languages are a medium of communication. Visuali
 ### Elevate - Re-telling the story
 Finally, it was time for high fidelity execution and pixel perfection! It was time to showcase the story I unearthed from the previous viz and present it in a new light!
 
-## Let's dive into Each of these steps!
+## Let's dive into each of these steps!
 
 ## EXPLORE
 From the MakeoverMonday website, I picked the 'Child and Infant Mortality' data viz produced in September 2024 by 'Our World in Data'.
