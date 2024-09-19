@@ -98,7 +98,7 @@ Speaking about the original viz -
 
 ND, 22 M    
 Speaking about the iterated sketches -     
-*"The first graphical one is really bold and kind of scarred me a little bit. As for the treemap, I would still need explanation on how the boz sizes and color saturation is being defined. It's not exactly clear at the moment"*
+*"The first graphical one is really bold and kind of scarred me a little bit. As for the treemap, I would still need explanation on how the box sizes and color saturation is being defined. It's not exactly clear at the moment"*
 
 MK, Age unknown, F  
 Speaking about the iterated sketches -     
