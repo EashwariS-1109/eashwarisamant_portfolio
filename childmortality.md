@@ -87,22 +87,32 @@ For this sketch, the idea was to show the difference in GDP and mortality rates 
 Lastly, this sketch tried to segregate the countries into high-income low-income quadrants. The country names would show up as text within the quadrants.
 
 
-### User Feedback and Quotes   
-At the end of the     
+### User Feedback and Quotes       
+I interviewed 5 participants (including the in-class critique) of varying backgrounds, ethnicities, ages and gender. I wanted to map patterns of commonalities across different users to identify potential areas of improvement.     
 
+I used to show the original viz first, then let them speak a bit about their thoughts on it. Then, I showed my three iterations and solicited feedback on them. The overall observation across the participants was that I was headed in the right direction. People usually understood what was happening/ what was being compared in my sketches. However, there were some noteworthy aha! moments that arose during the interviews.    
+
+RP, 28 F    
+Speaking about the original viz -     
+*"I don't know why population, GDP and mortality are being compared all at once. It makes sense to compare mortality with either but seeing it all together is rather confusing. The headline doesn't do much to help either."*   
+
+ND, 22 M    
+Speaking about the iterated sketches -     
+*"The first graphical one is really bold and kind of scarred me a little bit. As for the treemap, I would still need explanation on how the boz sizes and color saturation is being defined. It's not exactly clear at the moment"*
+
+MK, Age unknown, F  
+Speaking about the iterated sketches -     
+*"I don't see the reason behind depicting all countries at once. I'm not able to focus on any one. I think it would be better to have some kind of aggregates here."*   
+
+The user research proved instrumental in making a giant leap from my sketches to the final elevated re-telling fo the story. Some key insights from the research were -     
+#### The audience can comprehend only two parameters being compared at once, without any strain. It is worth it to de emphasize or eliminate the population parameter as it does not directly impact mortality.      
+#### There is a confounding variable of 'healthcare spending' that supports the correlation of per capita GDP and child mortality. Making that variable more visible is essential for an impactful revamp.    
+#### Comparing all countries at once does not provide any significant takeaway or at-a-glance revelation to the audience. Grouping the data into appropriate regions would make it easier for the audience to understand trends and relationships between the parameters.   
+
+Based on these insights, it was time for some Tableau and visual design magic!
 
 
 ## ELEVATE
-
-<div class='tableauPlaceholder' id='viz1726716265707' style='position: relative'><noscript><a href='#'><img alt='Economic Growth: A Lifeline For ChildrenUN Data from 2021 compares aggregate per capita GDP* and child mortality** rates across continents ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ec&#47;EconomicGrowthALifelineForChildren&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='EconomicGrowthALifelineForChildren&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ec&#47;EconomicGrowthALifelineForChildren&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'> 
-var divElement = document.getElementById('viz1726716265707');                    
-var vizElement = divElement.getElementsByTagName('object')[0];                    
-vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
-var scriptElement = document.createElement('script');                    
-scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-vizElement.parentNode.insertBefore(scriptElement, vizElement);               
-</script>
-
 
 
 
