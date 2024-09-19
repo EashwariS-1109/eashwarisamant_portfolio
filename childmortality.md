@@ -121,7 +121,6 @@ Finally, I chose a line chart to show the inverse relationship between per capit
 
 Here's the revamped viz that illustrated how the per capita GDP of continents correlates with respective child mortality rates.   
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -129,14 +128,14 @@ Here's the revamped viz that illustrated how the per capita GDP of continents co
     <title>Tableau Viz</title>
 </head>
 <body>
-    <div class='tableauPlaceholder' id='viz1726716265707' style='position: relative; width: 800px; height: 600px;'>
+    <div class='tableauPlaceholder' id='viz1726716265707' style='position: relative'>
         <noscript>
             <a href='#'>
                 <img alt='Economic Growth: A Lifeline For ChildrenUN Data from 2021 compares aggregate per capita GDP and child mortality rates across continents' 
                      src='https://public.tableau.com/static/images/Ec/EconomicGrowthALifelineForChildren/Sheet1/1_rss.png' style='border: none' />
             </a>
         </noscript>
-        <object class='tableauViz' style='width: 960px; height: 540px;'>
+        <object class='tableauViz' style='display:none;'>
             <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
             <param name='embed_code_version' value='3' /> 
             <param name='site_root' value='' />
@@ -155,12 +154,10 @@ Here's the revamped viz that illustrated how the per capita GDP of continents co
     </div>
     <script type='text/javascript'>
         var divElement = document.getElementById('viz1726716265707');
-        var vizElement = divElement.getElementsByTagName('object')[0];
+        var vizElement = divElement.getElementsByTagName('object')[0];                    
+        vizElement.style.width = '100%'; 
+        vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
         
-        // Locking the width and height
-        vizElement.style.width = '960px'; 
-        vizElement.style.height = '540px';
-
         var scriptElement = document.createElement('script');
         scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
         vizElement.parentNode.insertBefore(scriptElement, vizElement);
