@@ -108,6 +108,7 @@ The user research proved instrumental in making a giant leap from my sketches to
 #### The audience can comprehend only two parameters being compared at once, without any strain. It is worth it to de emphasize or eliminate the population parameter as it does not directly impact mortality.      
 #### There is a confounding variable of 'healthcare spending' that supports the correlation of per capita GDP and child mortality. Making that variable more visible is essential for an impactful revamp.    
 #### Comparing all countries at once does not provide any significant takeaway or at-a-glance revelation to the audience. Grouping the data into appropriate regions would make it easier for the audience to understand trends and relationships between the parameters.   
+#### Locking in on a prospective audience will dictate the storytelling style, and is thus essential in deciding the final form of the viz.
 
 Based on these insights, it was time for some Tableau and visual design magic!
 
