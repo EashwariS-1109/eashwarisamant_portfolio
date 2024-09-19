@@ -49,17 +49,17 @@ Aesthetics - The current color scheme and font choices can be improved for bette
 
 #### How can I make it better?
 
-Simplify and Focus
+Simplify and Focus     
 Clear Title - Writing a concise and informative title that highlights the main message.     
 Reduce Color - Using a monochrome color scheme or a limited palette to improve readability.      
 Prioritize Insights - Focus on the key correlation or causal relationship between GDP and child mortality rates.     
 
-Enhance Visual Clarity
+Enhance Visual Clarity     
 Choose Appropriate Chart Type - Using a chloropleth map, heatmap, or bar graph for better visualization of geographical data.      
 Optimize Dot Sizing - Exploring alternative methods for representing population size, such as different dot shapes or sizes that are more visually intuitive.     
 Improve Labeling - Reducing redundancies and visual clutter by hiding or de emphasizing labels wherever necessary.    
 
-Enhance Engagement
+Enhance Engagement     
 Tell a Story - Incorporating a narrative or storytelling element to connect the data with the deeply emotional issue of child mortality.      
 Highlight Key Findings - Using annotations or callouts to emphasize important trends or insights.     
 
