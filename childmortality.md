@@ -83,7 +83,12 @@ This iteration was meant to be a more abstract, graphical representation using a
 For this sketch, the idea was to show the difference in GDP and mortality rates using spatial relationships and color saturation. It de emphasized population as a parameter. So Qatar with the highest GDP, became the biggest grey 'square' on the tree map (since it had the lowest mortality rate). Whereas, Niger became the smallest square with the darkest red color.   
 
 
-![Iteration3](
+![Iteration3](childmortalityv3.png)
+Lastly, this sketch tried to segregate the countries into high-income low-income quadrants. The country names would show up as text within the quadrants.
+
+
+### User Feedback and Quotes   
+At the end
 
 
 
