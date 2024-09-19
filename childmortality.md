@@ -19,4 +19,6 @@ Finally, it was time for high fidelity execution and pixel perfection! It was ti
 ### Explore
 From the MakeoverMonday website, I picked the 'Child and Infant Mortality' data viz produced in September 2024 by 'Our World in Data'.
 
+<iframe src="https://ourworldindata.org/grapher/child-mortality-gdp-per-capita?time=2021&tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
+
 
