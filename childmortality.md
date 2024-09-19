@@ -75,7 +75,10 @@ User research for information design was a novel experience. And it also gave me
 ## EVALUATE
 At the end of the critique, I went back to the drawing board to create my own iterations of the viz. Below are a few sketches I created to explore how the same data can be visualized in a more stylized, and abstract density graph, a treemap and a quandrant map.
 
+[Iteration1](childmortalityv1.png)
+This iteration was meant to be a more abstract, graphical representation using a density graph. 
 
+[Iteration2](
 
 
 
