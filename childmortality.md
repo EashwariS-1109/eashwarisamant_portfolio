@@ -76,9 +76,12 @@ User research for information design was a novel experience. And it also gave me
 At the end of the critique, I went back to the drawing board to create my own iterations of the viz. Below are a few sketches I created to explore how the same data can be visualized in a more stylized, and abstract density graph, a treemap and a quandrant map.
 
 [Iteration1](childmortalityv1.png)
-This iteration was meant to be a more abstract, graphical representation using a density graph. 
+This iteration was meant to be a more abstract, graphical representation using a density graph. It focused more on getting an emotional reaction to the data.
 
-[Iteration2](
+[Iteration2](childmortalityv2.png)
+For this sketch, the idea was to show the difference in GDP and mortality rates using spatial relationships and color saturation. It de emphasized population as a parameter. So Qatar with the highest GDP, became the biggest grey 'square' on the tree map (since it had the lowest mortality rate). Whereas, Niger became the smallest square with the darkest red color.   
+
+
 
 
 
