@@ -119,4 +119,51 @@ I started off by cleaning up the dataset to eliminate any null/redundant values,
 
 Finally, I chose a line chart to show the inverse relationship between per capita GDP and child mortality rates across continents. This form of the viz made the story clear at the first glance and elicited an aha! response from everyone I shared it with. 
 
+Here's the revamped viz that illustrated how the per capita GDP of continents correlates with respective child mortality rates.   
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tableau Viz</title>
+</head>
+<body>
+    <div class='tableauPlaceholder' id='viz1726716265707' style='position: relative'>
+        <noscript>
+            <a href='#'>
+                <img alt='Economic Growth: A Lifeline For ChildrenUN Data from 2021 compares aggregate per capita GDP and child mortality rates across continents' 
+                     src='https://public.tableau.com/static/images/Ec/EconomicGrowthALifelineForChildren/Sheet1/1_rss.png' style='border: none' />
+            </a>
+        </noscript>
+        <object class='tableauViz' style='display:none;'>
+            <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+            <param name='embed_code_version' value='3' /> 
+            <param name='site_root' value='' />
+            <param name='name' value='EconomicGrowthALifelineForChildren/Sheet1' />
+            <param name='tabs' value='no' />
+            <param name='toolbar' value='yes' />
+            <param name='static_image' value='https://public.tableau.com/static/images/Ec/EconomicGrowthALifelineForChildren/Sheet1/1.png' />
+            <param name='animate_transition' value='yes' />
+            <param name='display_static_image' value='yes' />
+            <param name='display_spinner' value='yes' />
+            <param name='display_overlay' value='yes' />
+            <param name='display_count' value='yes' />
+            <param name='language' value='en-US' />
+            <param name='filter' value='publish=yes' />
+        </object>
+    </div>
+    <script type='text/javascript'>
+        var divElement = document.getElementById('viz1726716265707');
+        var vizElement = divElement.getElementsByTagName('object')[0];                    
+        vizElement.style.width = '100%'; 
+        vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+        
+        var scriptElement = document.createElement('script');
+        scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+        vizElement.parentNode.insertBefore(scriptElement, vizElement);
+    </script>
+</body>
+</html>
+
+
 
