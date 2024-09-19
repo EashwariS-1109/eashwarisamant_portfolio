@@ -22,7 +22,7 @@ From the MakeoverMonday website, I picked the 'Child and Infant Mortality' data 
 
 <iframe src="https://ourworldindata.org/grapher/child-mortality-gdp-per-capita?time=2021&tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
 
-This viz fit my criteria perfectly - it presented healthcare related information (something I'm passionate about), it was built upon a complex data set (per capita GDPs of all nearly all the countries in the world, respective child mortality rates and populations across the years of 1950 to 2022) and lastly it was something that could benefit from a revamp. Child mortality is a crucial issue in today's world as income and health inquity rises across the globe. Currently, the viz did not produce an instant aha! moment or even give an at-a-glance insight to someone who looks at it. This is where I began to......
+This viz fit my criteria perfectly - it presented healthcare related information (something I'm passionate about), it was built upon a complex data set (per capita GDPs of all nearly all the countries in the world, respective child mortality rates and populations across the years of 1950 to 2022) and lastly it was something that could benefit from a revamp. Child mortality is a crucial issue in today's world as income and health inequity rises across the globe. Currently, the viz did not produce an instant aha! moment or even give an at-a-glance insight to someone who looks at it. This is where I began to......
 
 
 ## EXAMINE
