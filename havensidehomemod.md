@@ -45,5 +45,13 @@ In the next part, I create a sudden contrast by taking them to a low point and p
 ## Initial Sketches   
 
 ## Data Sources
+AGING IN THE UNITED STATES: A STRATEGIC FRAMEWORK FOR A NATIONAL PLAN ON AGING (https://acl.gov/sites/default/files/ICC-Aging/StrategicFramework-NationalPlanOnAging-2024.pdf)   
+Pew Research Center - US Centenarian Population (https://www.pewresearch.org/short-reads/2024/01/09/us-centenarian-population-is-projected-to-quadruple-over-the-next-30-years/#:~:text=Centenarians%20currently%20make%20up%20just,to%20reach%200.1%25%20in%202054.)     
+Trinet, Generational Differences in the Workplace (https://www.trinet.com/insights/generations-in-the-workplace-boomers-gen-x-gen-y-and-gen-z-explained)     
+Brookings, The Age of Longevity (https://www.brookings.edu/articles/the-age-of-the-longevity-economy/#:~:text=In%202024%2C%20older%20adults%20account,will%20continue%20to%20steadily%20rise.)     
+AARP, The Longevity Economy Outlook (https://www.aarp.org/research/topics/economics/info-2019/longevity-economy-outlook.html)    
+
 
 ## Method & Medium
+
+For this project, I intend to use a combination of Tableau, Flourish, Figma and Shorthand. Tableau and Flourish will be used mainly for the key data visualisations. I intend to use Figma and Shorthand for any specific interactions and animations that may complement my storytelling.
