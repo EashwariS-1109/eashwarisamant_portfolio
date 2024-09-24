@@ -37,9 +37,12 @@ As an older adult, I want to protect and modify my home so that I can remain hea
 I can do this by exploring platforms such as AARP, and getting a holistic home mod evaluation from (X) business.    
 
 #### Story Arc -   
+![Story Arc](storyarc.jpg)
 
+I want to take my audience through a sinusoidal wave of emotions. The introduction will reaffirm their self worth by showcasing how much value they add to the world. Research has shown that Gen X associates their self worth with their work, and the story uses this basis of their mental model to affirm the tangible and significant value they add to the economy. I will present stats about their contribution to GDP, workforce participation and spending power.   
+In the next part, I create a sudden contrast by taking them to a low point and presenting the threat of unsafe homes and in-home falls and injuries. Next, there is a glimmer of hope as I show them that this is preventable. Finally, in the conclusion, I show them the appeal of a holistic home mod evaluation which can help them sustain their independence and happiness. I will present calls to action by giving them resources such as the AARP website, and X business's holistic home mod evaluation inquiry form.
 
-## Initial Sketches
+## Initial Sketches   
 
 ## Data Sources
 
