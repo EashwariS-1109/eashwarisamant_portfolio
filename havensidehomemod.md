@@ -46,7 +46,7 @@ In the next part, I create a sudden contrast by taking them to a low point and p
 ![Sketches 01](Sketches 01.jpeg)
 ![Sketches 02](Sketches 02.jpeg)
 ![Sketches 03](Sketches 03.jpeg)
-![Sketches 04](
+![Sketches 04](Sketches 04.jpeg)
 
 ## Data Sources
 AGING IN THE UNITED STATES: A STRATEGIC FRAMEWORK FOR A NATIONAL PLAN ON AGING [https://acl.gov/sites/default/files/ICC-Aging/StrategicFramework-NationalPlanOnAging-2024.pdf ](url)    
