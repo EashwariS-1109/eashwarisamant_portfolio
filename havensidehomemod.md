@@ -44,7 +44,9 @@ In the next part, I create a sudden contrast by taking them to a low point and p
 
 ## Initial Sketches   
 ![Sketches 01](Sketches 01.jpeg)
-![Sketches 02](
+![Sketches 02](Sketches 02.jpeg)
+![Sketches 03](
+
 ## Data Sources
 AGING IN THE UNITED STATES: A STRATEGIC FRAMEWORK FOR A NATIONAL PLAN ON AGING [https://acl.gov/sites/default/files/ICC-Aging/StrategicFramework-NationalPlanOnAging-2024.pdf ](url)    
 Pew Research Center - US Centenarian Population [(https://www.pewresearch.org/short-reads/2024/01/09/us-centenarian-population-is-projected-to-quadruple-over-the-next-30-years/#:~:text=Centenarians%20currently%20make%20up%20just,to%20reach%200.1%25%20in%202054.)    ](url)     
