@@ -43,7 +43,7 @@ I want to take my audience through a sinusoidal wave of emotions. The introducti
 In the next part, I create a sudden contrast by taking them to a low point and presenting the threat of unsafe homes and in-home falls and injuries. Next, there is a glimmer of hope as I show them that this is preventable. Finally, in the conclusion, I show them the appeal of a holistic home mod evaluation which can help them sustain their independence and happiness. I will present calls to action by giving them resources such as the AARP website, and X business's holistic home mod evaluation inquiry form.
 
 ## Initial Sketches   
-
+![Sketches 01](
 ## Data Sources
 AGING IN THE UNITED STATES: A STRATEGIC FRAMEWORK FOR A NATIONAL PLAN ON AGING [https://acl.gov/sites/default/files/ICC-Aging/StrategicFramework-NationalPlanOnAging-2024.pdf ](url)    
 Pew Research Center - US Centenarian Population [(https://www.pewresearch.org/short-reads/2024/01/09/us-centenarian-population-is-projected-to-quadruple-over-the-next-30-years/#:~:text=Centenarians%20currently%20make%20up%20just,to%20reach%200.1%25%20in%202054.)    ](url)     
