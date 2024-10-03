@@ -21,7 +21,7 @@ This project uses the critique by design method to revamp an existing data viz p
 ## Grab Bars and Independence
 
 ### [Part I](/havensidehomemod.md)    
-### [Part II](/finalprojectpart2.md)
+### [Part II](/final-project-part-two.md)
 ### [Part III](/finalprojectpart3.md)
 
 Project Summary 
