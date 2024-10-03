@@ -20,7 +20,7 @@ This project uses the critique by design method to revamp an existing data viz p
 
 ## Grab Bars and Independence
 
-### [Part I] 
+### [Part I](/havensidehomemod.md)    [Part II]
 
 Project Summary 
 By the year 2054, 23% of the US population will be over 65 years of age. For a group of people that are moving fast towards becoming young seniors*, there's still a lack of awareness and proactiveness about safeguarding their own independence. In this project, we explore the long term value a holistic home modification can bring, creating sustained physical independence and saving people thousands of dollars - and potentially their life.
