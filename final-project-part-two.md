@@ -34,7 +34,7 @@ Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
+| Question you asked here | Insightful feedback            | Lorem Ipsum dolor             | Lorem Ipsum Dolor             |
 |                         |                                |             |             |
 |                         |                                |             |             |
 
@@ -63,3 +63,4 @@ Here's the moodboard I created for my story.
 
 ![Moodboard](Havenside Moodboard.png)
 
+> I decided to refine my user persona/ target audience since Part I, and made it more concise to retain the most important things I need to remember while I design for them.  
