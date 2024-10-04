@@ -31,10 +31,9 @@ Below is an overview of my interview protocol.
 |  Understanding first impressions    | As you went through the storyboard, what thoughts came to your mind?                 |
 |   Evaluating visual language    | What do you think about the colors and visuals used in the storyboard? Did the images speak to you? Did you like or dislike a particular visual?                 |
 |   Assessing clarity of CTA    | Intuitively, what next step would you take after viewing this story? How did the ending of the story make you feel?                 |
-|   Measuring viz comprehension   | Can you walk me thhrough your understanding of the data vizualizations? What did you like/dislike about them? Was there anything that stuck with you?               |
+|   Measuring viz comprehension   | Can you walk me through your understanding of the data vizualizations? What did you like/dislike about them? Was there anything that stuck with you?               |
 |   Assessing legibility    |  Was all the text legible? Did you have trouble reading or comprehending any particular section?                |
 
-Text here!
 
 ### Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
