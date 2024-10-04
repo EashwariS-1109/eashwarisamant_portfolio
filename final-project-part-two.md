@@ -57,7 +57,9 @@ Text here!
 Text here!
 
 ## Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+> Since my story was anchored to one of my internship projects, I largely borrowed the color palette from the comapny's brand guidelines. However, I did make some small tweaks in the moodboard to reflect the tone of voice of my storytelling. I used a balanced and cool color palette to appeal to the mature sensibilities of my audience (40 - 55 year olds), and used the blues and greens to evoke a sense of trust, reliability and credibility. The visual language and imagery is meant to be slightly metaphorical, since I wanted to avoid showing any explicit images of falls, accidents, and other mishaps. I had to walk a thin line to get the message across without throwing off my audience. Or rather, i didn't want to use negative imagery that would evoke strong emotional reactions, as a threat or bait. 
 
-Text here!
+Here's the moodboard I created for my story.
+
+
 
