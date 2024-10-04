@@ -63,7 +63,8 @@ Here's the moodboard I created for my story.
 
 ![Moodboard](Havenside Moodboard.png)
 
-> I decided to refine my user persona/archetype since Part I, and made it more concise to retain the most important things I need to remember while I design for them.     
+I decided to refine my user persona/archetype since Part I, and made it more concise to retain the most important things I need to remember while I design for them.  
+
 > ### Proactive Planner    
 > 45-55 years old, Low to middle income ($40k-$80k annually)       
 Occupation: Skilled trades, clerical work, or other mid-level careers nearing retirement    
