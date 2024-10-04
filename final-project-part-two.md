@@ -61,5 +61,5 @@ Text here!
 
 Here's the moodboard I created for my story.
 
-![Moodboard](/Havenside Moodboard.png)
+![Moodboard](Havenside Moodboard.png)
 
