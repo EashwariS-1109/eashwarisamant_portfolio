@@ -57,10 +57,18 @@ Text here!
 Text here!
 
 ## Moodboards / personas
-> Since my story was anchored to one of my internship projects, I largely borrowed the color palette from the comapny's brand guidelines. However, I did make some small tweaks in the moodboard to reflect the tone of voice of my storytelling. I used a balanced and cool color palette to appeal to the mature sensibilities of my audience (40 - 55 year olds), and used the blues and greens to evoke a sense of trust, reliability and credibility. The visual language and imagery is meant to be slightly metaphorical, since I wanted to avoid showing any explicit images of falls, accidents, and other mishaps. I had to walk a thin line to get the message across without throwing off my audience. Or rather, i didn't want to use negative imagery that would evoke strong emotional reactions, as a threat or bait. 
+> Since my story was anchored to one of my internship projects, I largely borrowed the color palette from the comapny's brand guidelines. However, I did make some small tweaks in the moodboard to reflect the tone of voice of my storytelling. I used a balanced and cool color palette to appeal to the mature sensibilities of my audience (40 - 55 year olds), and used the blues and greens to evoke a sense of trust, reliability and credibility. The visual language and imagery is meant to be slightly metaphorical, since I wanted to avoid showing any explicit images of falls, accidents, and other mishaps. I had to walk a thin line to get the message across without throwing off my audience. Or rather, I didn't want to use negative imagery that would evoke strong emotional reactions, as a threat or bait. 
 
 Here's the moodboard I created for my story.
 
 ![Moodboard](Havenside Moodboard.png)
 
-> I decided to refine my user persona/ target audience since Part I, and made it more concise to retain the most important things I need to remember while I design for them.  
+> I decided to refine my user persona/archetype since Part I, and made it more concise to retain the most important things I need to remember while I design for them.     
+> ### Proactive Planner    
+> 45-55 years old, Low to middle income ($40k-$80k annually)       
+Occupation: Skilled trades, clerical work, or other mid-level careers nearing retirement    
+Family: Likely has grown or nearly grown children, may also be caring for aging parents     
+Home Ownership: Majority are homeowners, with properties that may be 20+ years old and in need of renovation or modification     
+> Motivations: As they approach retirement age, they are motivated by the desire to live comfortably in their homes for as long as possible. They are looking for ways to safeguard their health and independence while managing the financial aspect of home improvements on a budget.    
+> Pain Points: They are aware of the rising costs of healthcare and assisted living    
+> Barriers: While concerned about future risks, they may lack awareness of available home modifications or feel overwhelmed by the costs associated with such improvements. They may also be unsure about how to begin the process or who to trust for the work.      
