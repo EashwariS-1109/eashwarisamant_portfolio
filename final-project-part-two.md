@@ -13,7 +13,7 @@
 
 I identified three participants, as mentioned below. The goal was to cover the broad age spectrum. I also tried to engage in informal conversation before the interviews to identify their general awareness about the impact of home modifications/home improvement. Based on my understanding, I marked them as having beginner, intermediate and advanced levels of awareness. I tried to estimate this level of awareness and didn't ask any explicit questions about it in order to avoid biasing them about my story.
 
-| Initials | Age | Awareness about Home Modifications |
+| Initials | Age | Awareness about Home Mods |
 |------|----------|-----------------------------------|
 |  BS  |     55 years     |     Beginner     |
 |  AA  |      40 years    |     Intermediate     |
