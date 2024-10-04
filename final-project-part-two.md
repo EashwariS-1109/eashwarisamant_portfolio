@@ -70,10 +70,16 @@ Here's the moodboard I created for my story.
 I decided to refine my user persona/archetype since Part I, and made it more concise to retain the most important things I need to remember while I design for them.  
 
 > ### Proactive Planner    
-> 45-55 years old, Low to middle income ($40k-$80k annually)       
-Occupation: Skilled trades, clerical work, or other mid-level careers nearing retirement    
+> 45-55 years old, Low to middle income ($40k-$80k annually)
+>          
+Occupation: Skilled trades, clerical work, or other mid-level careers nearing retirement       
+  
 Family: Likely has grown or nearly grown children, may also be caring for aging parents     
-Home Ownership: Majority are homeowners, with properties that may be 20+ years old and in need of renovation or modification     
-> Motivations: As they approach retirement age, they are motivated by the desire to live comfortably in their homes for as long as possible. They are looking for ways to safeguard their health and independence while managing the financial aspect of home improvements on a budget.    
-> Pain Points: They are aware of the rising costs of healthcare and assisted living    
+
+Home Ownership: Majority are homeowners, with properties that may be 20+ years old and in need of renovation or modification  
+
+> Motivations: As they approach retirement age, they are motivated by the desire to live comfortably in their homes for as long as possible. They are looking for ways to safeguard their health and independence while managing the financial aspect of home improvements on a budget.
+ 
+> Pain Points: They are aware of the rising costs of healthcare and assisted living
+
 > Barriers: While concerned about future risks, they may lack awareness of available home modifications or feel overwhelmed by the costs associated with such improvements. They may also be unsure about how to begin the process or who to trust for the work.      
