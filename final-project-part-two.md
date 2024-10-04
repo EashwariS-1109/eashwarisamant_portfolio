@@ -72,11 +72,11 @@ I decided to refine my user persona/archetype since Part I, and made it more con
 > ### Proactive Planner    
 > 45-55 years old, Low to middle income ($40k-$80k annually)
 >          
-Occupation: Skilled trades, clerical work, or other mid-level careers nearing retirement       
+> Occupation: Skilled trades, clerical work, or other mid-level careers nearing retirement       
   
-Family: Likely has grown or nearly grown children, may also be caring for aging parents     
+> Family: Likely has grown or nearly grown children, may also be caring for aging parents     
 
-Home Ownership: Majority are homeowners, with properties that may be 20+ years old and in need of renovation or modification  
+> Home Ownership: Majority are homeowners, with properties that may be 20+ years old and in need of renovation or modification  
 
 > Motivations: As they approach retirement age, they are motivated by the desire to live comfortably in their homes for as long as possible. They are looking for ways to safeguard their health and independence while managing the financial aspect of home improvements on a budget.
  
