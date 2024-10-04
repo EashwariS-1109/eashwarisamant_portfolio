@@ -48,21 +48,17 @@ Below are some of the questiosn that brought out the most valuable responses.
 
 
 ## Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+> Following were the high-level areas of changes to be made in Part III  
 
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Sometimes too simple can make things complex | I plan to change the split bar chart viz since people can't instantly form a meaningful connection between types of home mods and saved healthcare costs. Alternatively, I plan to add either a line chart showing home mod investment versus reduction in at-home falls. Another option is turn the split bar chart into a grouped bar chart|
+| Color Dynamism - Credibility versus Drama                                         | I realized that my mature color palette was taking away from the dramatic effects of the story. I will reconsider some images and play around with the percentages of individual colors to curate more drama into the storyline.                                                                                |
+| Designing for accessibility            | My participants being middle aged, struggled with reading the lighter weight IBM Plex. I will be increasing the font weight and size to make it more accessible for my target age group.                                                                                |
 
-> ...include any final thoughts you have here. 
+> Overall, I think the user research helped shed light on things I failed to cover. Especially the accessiblity and the connection between the vizs. I think I knew the story too well and therefore it was a classic tappers versus listeners phenomenon during user testing. 
 
-Text here!
 
 ## Moodboards / personas
 > Since my story was anchored to one of my internship projects, I largely borrowed the color palette from the comapny's brand guidelines. However, I did make some small tweaks in the moodboard to reflect the tone of voice of my storytelling. I used a balanced and cool color palette to appeal to the mature sensibilities of my audience (40 - 55 year olds), and used the blues and greens to evoke a sense of trust, reliability and credibility. The visual language and imagery is meant to be slightly metaphorical, since I wanted to avoid showing any explicit images of falls, accidents, and other mishaps. I had to walk a thin line to get the message across without throwing off my audience. Or rather, I didn't want to use negative imagery that would evoke strong emotional reactions, as a threat or bait. 
