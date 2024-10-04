@@ -1,7 +1,7 @@
 # Part II 
 
 ## Wireframes / Storyboards
-> I used a combination of Figma and Shorthand to put the storyboard/wireframes together and some Tableau experimentation to create the data vizs. I started off by creating static visuals in Figma in order to keep the focus on the narrative and refien the persuasive appeal of the story arc. The goal was to not get distracted by animations, transitions and other additions which could be integrated later. Below is a work in progress Shorthand draft of the storyboard.
+> I used a combination of Figma and Shorthand to put the storyboard/wireframes together and some Tableau experimentation to create the data vizs. I started off by creating static visuals in Figma in order to keep the focus on the narrative and refine the persuasive appeal of the story arc. The goal was to not get distracted by animations, transitions and other additions which could be integrated later. Below is a work in progress Shorthand draft of the storyboard.
 
 [Shorthand Storyboard](https://preview.shorthand.com/fBCejgzfARXws9ah)
 
