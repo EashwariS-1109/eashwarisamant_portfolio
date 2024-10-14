@@ -16,11 +16,10 @@
 
 ## The audience  
 > Part II helped me set my user persona in mind, before I refined my data story. I was more or less targeting the exact same persona and there wasn't much change in this part.
-> 
-> Proactive Planner  
-> 45-55 years old, Low to middle income ($40k-$80k annually)  
 >
-> Occupation: Skilled trades, clerical work, or other mid-level careers nearing retirement  
+> 
+> ### Proactive Planner  
+> 45-55 years old, Middle income   
 >
 > Family: Likely has grown or nearly grown children, may also be caring for aging parents  
 > 
@@ -32,6 +31,7 @@
 > 
 > Barriers: While concerned about future risks, they may lack awareness of available home modifications or feel overwhelmed by the costs associated with such improvements. They may also be unsure about how to begin the process or who to trust for the work.  
 >
+> 
 > However, I was intentional in my use of active and passive voice and the first/second person language in copywriting of the slides. For example, in the title slide, I used "Your Home, Your Future", as if I was directly talking to my intended audience. This made them look up and take notice. In the next 2 slides, I used a more indirect third person to show the home ownership rate and how homes are treasured possessions. But in Slide 3, I went back to a first person voice, writing " But what if YOUR home doesn't evolve to meet YOUR needs?" This helped in creating a strong emotional connect with the target user.   
 
 
