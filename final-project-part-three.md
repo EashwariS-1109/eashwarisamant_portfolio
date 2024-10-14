@@ -16,7 +16,9 @@
 
 
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
+> This data story was made possible with the data and imagery from the following sources.
+> Data Story Images - Unsplash
+> 
 
 
 # Final thoughts
