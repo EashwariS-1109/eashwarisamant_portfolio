@@ -1,5 +1,5 @@
 # Eashwari Samant's Data Visualization Portfolio
-Hello! This is my public portfolio for the course Telling Stories with Data! :)
+Hello! This is my public portfolio for the course Telling Stories with Data at Carnegie Mellon University! :)
 
 # About Me
 I'm Eashwari, from the MIIPS-Advanced Study program at CMU. 
