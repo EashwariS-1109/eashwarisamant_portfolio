@@ -1,4 +1,4 @@
-# Part II 
+# Final Project Part II 
 
 ## Wireframes / Storyboards
 > I used a combination of Figma and Shorthand to put the storyboard/wireframes together and some Tableau experimentation to create the data vizs. I started off by creating static visuals in Figma in order to keep the focus on the narrative and refine the persuasive appeal of the story arc. The goal was to not get distracted by animations, transitions and other additions which could be integrated later. Below is a work in progress Shorthand draft of the storyboard.
@@ -82,4 +82,8 @@ I decided to refine my user persona/archetype since Part I, and made it more con
  
 > Pain Points: They are aware of the rising costs of healthcare and assisted living
 
-> Barriers: While concerned about future risks, they may lack awareness of available home modifications or feel overwhelmed by the costs associated with such improvements. They may also be unsure about how to begin the process or who to trust for the work.      
+> Barriers: While concerned about future risks, they may lack awareness of available home modifications or feel overwhelmed by the costs associated with such improvements. They may also be unsure about how to begin the process or who to trust for the work.
+
+### Explore other parts of this project    
+#### [Part I](/havensidehomemod.md)   
+#### [Part III](/final-project-part-three.md)   
