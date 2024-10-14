@@ -24,9 +24,11 @@
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section.  
 
+
 ## Explore other parts of this project    
 #### [Part I](/havensidehomemod.md)   
 #### [Part II](/final-project-part-two.md)   
+
 
 ## Other portfolio projects    
 #### [Visualizing government debt](/govtdebt.md)   
