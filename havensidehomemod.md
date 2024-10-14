@@ -72,6 +72,11 @@ National Library of Medicine, Medicals Costs of Older Adult Falls [(https://www.
 
 ### Tableau + Flourish + Figma
 I will utilize a combination of Tableau, Flourish, and Figma to create compelling and informative static graphics. Tableau will serve as the primary tool for generating data visualizations, allowing me to produce clear and detailed charts, graphs, and other data representations. These visual elements will be imported into Figma, where I will further enhance their aesthetics and clarity through graphical adjustments. In addition, Figma's animation capabilities will be leveraged to introduce interactivity into select visualizations, creating a more engaging and dynamic user experience.   
+   
 
 ### Figma for Deck Design and Presentation    
 For the design and presentation of my project, I will take a fully integrated approach within the Figma ecosystem. I will use Figma not only to design the project deck but also as the platform for delivering the final presentation. Figma’s collaborative features and flexibility make it an ideal choice for crafting visually striking presentations that effectively communicate the insights and findings of my project.   
+
+### Explore how the project unfolded..   
+#### [Part II](/final-project-part-two.md)   
+#### [Part III](/final-project-part-three.md)  
