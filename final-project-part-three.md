@@ -36,8 +36,10 @@
 
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
+> After the user research in Part II, I took the opportunity to revisit my design choices, not just in terms of the data viz form, but also its execution, medium and supporting visual language.
+>
+> ### Accessibility in Type and Color
+> 
 
 ## References
 > This data story was made possible with the data and imagery from the following sources.
