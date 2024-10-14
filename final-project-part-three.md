@@ -1,9 +1,9 @@
 # Final project Part III
 
 # The final data story
-> Shorthand link for the data story - [https://carnegiemellon.shorthandstories.com/tswdyourhomeyourfuture/index.html](url)
+> [Shorthand Link to Data Story](https://carnegiemellon.shorthandstories.com/tswdyourhomeyourfuture/index.html)
 
-# Changes made since Part II
+## Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
 Text here!
