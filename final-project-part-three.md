@@ -38,8 +38,17 @@
 ## Final design decisions
 > After the user research in Part II, I took the opportunity to revisit my design choices, not just in terms of the data viz form, but also its execution, medium and supporting visual language.
 >
-> ### Accessibility in Type and Color
+> ### Accessibility in Type, Color and Form
+> It was important to center my design decisions around type, color and shape/form around accessibility, given the age group of my target audience. For type, I used the IBM Plex Sans family, but eliminated the use of the 'light' variant after user research revealed that it had low legibility. When it came to color and imagery, I wanted to evoke a sense of credibility, trust and convey the gravity of the topic. This is why I chose to limit my color palette to just blue, black and white. Balancing the use of black and white proportions and blue as an accent color gave me the control to evoke positive or negative emotions in the audience.
 > 
+> ### Translating Data Vizs from Tableau to Figma
+> Although I created all my visualizations in Tableau, I decided to trace/redo those in Figma in order to enhance their comprehension. Particularly in the case of the line chart, this decision proved to be useful because I could use a subtle monochrome gradation in the line chart, to effectively convey the meaning. Likewise, I made the last healthcare cost 'treemap' viz in Figma to control the size of the square as it had to accurately relate to the amount of dollars spent on healthcare.
+> 
+> ### When in doubt, simply subtract
+> Throughout the data story, I tried to eliminate as much as I could. This may sound counterintuitive but my secondary research showed that my target demographic spends not more than 30 seconds scrolling through something like this. Also, eliminating walls of text and unneccessary details helped me bring about a sense of focus and clarity about the exact message I wanted to convey through my story. As a consequence, it also became really easy to present my whole story withina  minute during the in class presentation. This was probably the most important design decision that helped me create a strong narrative.
+> 
+> ### Sensitivity of imagery
+> I made a conscious decision to not show any explicit/direct or off putting imagery. Given the demographic of my target audience, it would've been counterintuitive to show images of seniors falling, being hospitalized or suffering from a serious injury. This was not discovered during user research, but rather something that came from my designer instincts and experience. An example of this would be the slide where I used an image of a broken plate to signify at-home falls. Another example is the slide where I showed 1 in 4 older adults in the US reported falling each year. There, I tilted and blurred one blue rectangle, and kept the other three white rectabgles sharply in focus. When the reader scrolls through the shorthand, it is automatically conveyed that the blue out-of-focus rectangle has 'fallen'. Visuals like these helped in maintaining the strong connect with the gravity of the topic, without resorting to explicit or sensitive imagery. If that was the case, the data story would sound like it was fear mongering instead of creating awareness.
 
 ## References
 > This data story was made possible with the data and imagery from the following sources.
@@ -58,7 +67,7 @@
 
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section.  
+> This project helped me evolve as a designer. With the skills I learned in crafting a data story, I'm confident that I can present to C-Suite or senior management in my future role as a design strategist. Considering that my target domains for a job are healthcare, education, gov-tech and finance, this skill becomes especially important given the serious impact the products/services can have on the end user. I will use this skill to convey research insights, streamline and steer decision making in the right direction and ultimately build products that benefit the business and the user. I think the learnings from this project blend really well with my past skillset of visual design and stroytelling (film making). If I had more time with this project, I would explore Tableau in depth and come up with advanced interactive and animated data vizs that the audience could actively engage with. However, if that was the case, I would free the story from the restraints of Shorthand, and instead embed it in a place like a website landing page or a social media insert/ad. This would also help in lead generation and conversion.
 
 
 ## Explore other parts of this project    
